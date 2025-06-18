@@ -23,7 +23,7 @@ The architecture of the pipeline includes the following stages:
 - **Samples**: 200,000
 - **Features**: 290 (numerical and categorical)
 - The dataset includes anonymized features related to user quotes and conversions.
-- Source: (private/competition-based)
+- Source: [(https://drive.google.com/drive/u/0/folders/1ntRZDjHYmaJn6RrwA5yz7itMbOaJhder)]
 
 ## Methodology
 1. **Data Understanding**: Initial analysis to inspect shape, types, and imbalance.
